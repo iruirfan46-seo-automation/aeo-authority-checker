@@ -6,7 +6,7 @@ As AI-powered search engines such as ChatGPT, Google AI Mode, Claude, Perplexity
 
 ## 🌐 Live Tool
 
-https://ranksenseai.com/aeo-authority-checker/
+https://ranksenseai.com/ai-visiblity-and-saas-tool/
 
 ## Features
 
